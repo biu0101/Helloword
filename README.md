@@ -1,3 +1,2 @@
 # Helloworld
-
-hello i'm new here, trying to learn something.
+just a practice
